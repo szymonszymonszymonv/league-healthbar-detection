@@ -2,7 +2,8 @@
 attempt at using python/openCV to detect health bars from an in-game screenshot
 
 ## How it works
-I use OpenCV to apply masks and transform the image and then I use contour detecting methods to find all rectangles of a particular size that resemble a health bar.
+I use OpenCV to apply masks and transform the image and then I use contour detecting methods to find all rectangles of a particular size that resemble a health bar. \
+Works only on spectator mode screenshots.
 
 ## Example screens:
 Input:
