@@ -12,6 +12,6 @@ Output:
 HEALTH BARS DETECTED ON SCREEN: 4
 ![screen2](https://i.imgur.com/wk6bIth.png)
 ## Usage
-Clone the repo and run the script.  
+Clone the repo, install OpenCV and run the script.  
 If you want to select a screenshot you can modify this line.
 ![screen3](https://i.imgur.com/quIgOWu.png)  
